@@ -15,7 +15,7 @@ Include all members of your team for the hack here:
 
 ## Problem and Solution
 
-[We specifically address Sustainable Development Goal #15 "Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss". Although our solution is able to address other goals such as #2 also.]
+*We specifically address Sustainable Development Goal #15 "Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss". Although our solution is able to address other goals such as #2 also.*
 
 In the past fourty years, the Earth has lost a third of arable land. Celios attempts to tackle this problem by giving information on soil degradation to farmers who are unable to afford to access the latest technology innovations such as satellites and microbes to combat pests. Celios gives farmers the opportunity to access information and help from 'citizen' (i.e. voluntary) farmers and scientists. A smart contract has also been included for further development of a staking and reward system for funding land use purposes (such as rent or future yields).
 
