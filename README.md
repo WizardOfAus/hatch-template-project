@@ -23,8 +23,8 @@ In the past fourty years, the Earth has lost a third of arable land. Celios atte
 
 ## Install and run this project
 
-For the smart contract: install Ethereum Wallet and test it on Rinkeby Test Net. Refer to the Test net documentation for information on how to get test gas.
+For the smart contract: install Ethereum Wallet and test it on Rinkeby Test Net. Refer to the Test net documentation for information on how to get test gas. Otherwise open on geth.
 
 For the data cleaning aspect: install R and R studio to run the code.
 
-For the... 
+For the basic web landing page and web app just open with HTML.
