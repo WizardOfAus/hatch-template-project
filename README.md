@@ -25,6 +25,6 @@ In the past fourty years, the Earth has lost a third of arable land. Celios atte
 
 For the smart contract: install Ethereum Wallet and test it on Rinkeby Test Net. Refer to the Test net documentation for information on how to get test gas. Otherwise open on geth.
 
-For the data cleaning aspect: install R and R studio to run the code.
+For the data cleaning aspect: install R and R studio to run the code. For more web interface, refer to the source of where the data is sourced: ftp://ftp.soilgrids.org/data/ and for a web interface with soilgrids: https://soilgrids.org/#!/?lon=114.25031657346551&lat=-21.788983024641396&zoom=5&layer=PHIHOX_M_sl5_250m&vector=1 
 
-For the basic web landing page and web app just open with HTML.
+For the web landing page and web app, open with HTML as a normal file.
