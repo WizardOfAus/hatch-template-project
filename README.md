@@ -1,6 +1,6 @@
 # Celios
 
-This project was developed during [hatchlondon 2017](http://hatchlondon.io).
+This project was developed during hatchlondon 2017.
 
 Celios is a soil focused initative. Combining alerts to farmers, access to the knowledge to help them and implementation of smart contracts to assist funding of where soil needs recovery time.
 
@@ -9,9 +9,6 @@ Celios is a soil focused initative. Combining alerts to farmers, access to the k
 Include all members of your team for the hack here:
 
 * WizardOfAus
-* Daniel 
-* Ekaterina
-* Kazmer
 
 ## Problem and Solution
 
